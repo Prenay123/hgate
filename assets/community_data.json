@@ -1,0 +1,31 @@
+[
+    {
+      "name": "Community1",
+      "blocks": [
+        {"name": "Block A", "flats": ["101", "102", "103"]},
+        {"name": "Block B", "flats": ["201", "202", "203"]}
+      ]
+    },
+    {
+      "name": "TulasiVanam",
+      "blocks": [
+        {"name": "Block C", "flats": ["301", "302", "303"]},
+        {"name": "Block D", "flats": ["401", "402", "403"]}
+      ]
+    },
+    {
+      "name": "Township",
+      "blocks": [
+        {"name": "Block C", "flats": ["301", "302", "303"]},
+        {"name": "Block D", "flats": ["401", "402", "403"]}
+      ]
+    },
+    {
+      "name": "Swanlake",
+      "blocks": [
+        {"name": "Block C", "flats": ["301", "302", "303"]},
+        {"name": "Block D", "flats": ["401", "402", "403"]}
+      ]
+    }
+  ]
+  
